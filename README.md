@@ -1,2 +1,4 @@
-<h2> Hi, I'm Nguyễn Bá Tuấn Anh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Blogger at <a href="https://anhnbt.com/">anhnbt.com</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Studies at <a href="https://codegym.vn/">CodeGym</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+![AnhNBT Logo](https://anhnbt.com/images/logo-anhnbt.png)
+# Hi, I'm Nguyễn Bá Tuấn Anh!</h2>
+Blogger at [https://anhnbt.com/](anhnbt.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Studies at [https://codegym.vn/](CodeGym - Hệ thống đào tạo lập trình hiện đại) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
