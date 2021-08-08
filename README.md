@@ -5,6 +5,8 @@
 - Học Full-stack Java Web Developer tại [CodeGym - Hệ thống đào tạo lập trình hiện đại](https://codegym.vn/)
 
 
-- 📹 [Youtube](https://www.youtube.com/channel/UCKoiCMAQotSZf-_zwSxlSjw)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anhnbt/)
-- 🐦 [Twitter](https://twitter.com/anhnbtdotcom)
+📹 [Youtube](https://www.youtube.com/channel/UCKoiCMAQotSZf-_zwSxlSjw)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/anhnbt/)
+
+🐦 [Twitter](https://twitter.com/anhnbtdotcom)
