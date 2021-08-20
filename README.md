@@ -4,9 +4,17 @@
 - Học Software Engineering tại [Hanoi-Aptech - Trường đào tạo Lập trình viên Quốc tế](https://aptech.vn/)
 - Học Full-stack Java Web Developer tại [CodeGym - Hệ thống đào tạo lập trình hiện đại](https://codegym.vn/)
 
+----------
+
+Truyền thông báo chí nói về AnhNBT
+
+- https://cafebiz.vn/tao-chat-rieng-trong-game-voi-1001-ki-tu-dac-biet-anhnbt-20210819183217058.chn
+
+----------
+Các Profile MXH
 
 📹 [Youtube](https://www.youtube.com/channel/UCKoiCMAQotSZf-_zwSxlSjw)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/anhnbt/)
 
-🐦 [Twitter](https://twitter.com/anhnbtdotcom)
+🐦 [Facebook](https://www.facebook.com/anhnbtdotcom/)
