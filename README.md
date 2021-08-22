@@ -8,7 +8,9 @@
 
 ## Truyền thông báo chí nói về AnhNBT
 
+- https://gamek.vn/anhnbt-nguoi-sang-tao-cong-cu-ki-tu-dac-biet-tai-viet-nam-20210820123145523.chn
 - https://cafebiz.vn/tao-chat-rieng-trong-game-voi-1001-ki-tu-dac-biet-anhnbt-20210819183217058.chn
+- https://genk.vn/ki-tu-dac-biet-ff-bi-kip-dat-ten-game-free-fire-20210820164447976.chn
 
 ----------
 ## Các Profile MXH
