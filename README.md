@@ -19,3 +19,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/anhnbt/)
 
 🐦 [Facebook](https://www.facebook.com/anhnbtdotcom/)
+
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=07065ef52346&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
