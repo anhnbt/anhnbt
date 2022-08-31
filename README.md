@@ -22,4 +22,3 @@
 
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=07065ef52346&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-[![Made with Bulma](https://bulma.io/images/made-with-bulma.png)](https://bulma.io?utm_source=badge)
