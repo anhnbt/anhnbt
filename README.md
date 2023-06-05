@@ -1,5 +1,5 @@
 # Xin chào, mình là Nguyễn Bá Tuấn Anh!</h2>
-- Blogger tại [anhnbt.com](https://www.anhnbt.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> - Một trang blog ghi chép, học tập và chia sẻ kinh nghiệm về lập trình. Ngoài ra mình là người sáng lập ra công cụ tạo tên ký tự đặc biệt tại [anhnbt.com](https://www.anhnbt.com/ky-tu-dac-biet)
+- Blogger tại [blog.anhnbt.com](https://blog.anhnbt.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> - Một trang blog ghi chép, học tập và chia sẻ kinh nghiệm về lập trình. Ngoài ra mình là người sáng lập ra công cụ tạo tên ký tự đặc biệt tại [anhnbt.com](https://www.anhnbt.com/ky-tu-dac-biet)
 - Học Software Engineering tại [Hanoi-Aptech - Trường đào tạo Lập trình viên Quốc tế](https://aptech.vn/)
 - Học Full-stack Java Web Developer tại [CodeGym - Hệ thống đào tạo lập trình hiện đại](https://codegym.vn/)
 
