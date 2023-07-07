@@ -3,28 +3,8 @@
 - Học Software Engineering tại [Hanoi-Aptech - Trường đào tạo Lập trình viên Quốc tế](https://aptech.vn/)
 - Học Full-stack Java Web Developer tại [CodeGym - Hệ thống đào tạo lập trình hiện đại](https://codegym.vn/)
 
-----------
-
-## Truyền thông báo chí nói về AnhNBT
+## Những bài viết PR nói về Công cụ Tạo tên ký tự đặc biệt
 
 - https://gamek.vn/anhnbt-nguoi-sang-tao-cong-cu-ki-tu-dac-biet-tai-viet-nam-20210820123145523.chn
 - https://cafebiz.vn/tao-chat-rieng-trong-game-voi-1001-ki-tu-dac-biet-anhnbt-20210819183217058.chn
 - https://genk.vn/ki-tu-dac-biet-ff-bi-kip-dat-ten-game-free-fire-20210820164447976.chn
-
-----------
-## Các Profile MXH
-
-📹 [Youtube](https://www.youtube.com/@anhnbt)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/anhnbt/)
-
-🐦 [Facebook](https://www.facebook.com/anhnbtdotcom/)
-
-## Công nghệ sử dụng
-
-![Java](https://img.shields.io/badge/-Java-green?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
-![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
-
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=07065ef52346&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
