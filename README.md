@@ -1,9 +1,19 @@
-Xin chào, mình là Nguyễn Bá Tuấn Anh.
+Xin chào, mình là **Nguyễn Bá Tuấn Anh (WanBi)**.
 
-Mình là giảng viên đào tạo lập trình và lập trình viên full-stack, thích thú với việc xây dựng ứng dụng web và đa nền tảng. Ngoài giờ dạy, mình viết blog chia sẻ kinh nghiệm chuyên môn, đồng thời nhận một vài dự án freelancer để thêm thu nhập và thỏa sức sáng tạo. Nếu bạn đang cần xây một website hay ứng dụng gì hay ho, cứ nhắn mình nhé 😄.
+Mình là **full-stack developer**, hiện làm việc chủ yếu với **hệ thống đang vận hành thật**: nghiệp vụ phức tạp, dữ liệu thật, người dùng thật. Công việc của mình xoay quanh việc giữ cho phần mềm **chạy ổn, dễ bảo trì và ít rủi ro** trong môi trường production.
 
-Tại [codingwithwanbi.com](https://codingwithwanbi.com/), mình ghi lại những điều tâm đắc về lập trình, chủ yếu xoay quanh frontend và các nền tảng cơ bản. Năm 2025, mình muốn mở rộng blog để khám phá thêm về lập trình full-stack, hành trình tự học, và cách AI có thể trở thành người bạn đồng hành trong công việc. Hy vọng những dòng chia sẻ này sẽ khơi gợi chút cảm hứng cho những ai đang tìm cách chinh phục thế giới code.
+Mình từng là giảng viên đào tạo Java / Full-stack, và hiện vẫn dạy **part-time** như một cách giữ cho tư duy luôn được mài sắc. Trước đó, mình đi lên từ lập trình web truyền thống, từng làm PHP / WordPress, rồi chuyển dần sang các hệ thống full-stack hiện đại.
 
-Mình cũng từng khởi tạo [anhnbt.com](https://www.anhnbt.com/), một công cụ tạo tên ký tự đặc biệt được nhiều game thủ yêu thích. Sau khi dự án ổn định, mình đã chuyển giao để tập trung vào những hành trình mới trong công nghệ và giáo dục.
+Tại **codingwithwanbi.com**, mình ghi lại những điều mình đang học và đang làm:
 
-Mình mơ về những phần mềm giản dị nhưng mang lại giá trị lâu dài.Còn hiện tại, cứ code đều đều, sống vui mỗi ngày.
+* Cách viết code để hệ thống sống lâu hơn
+* Những bài học từ việc debug và vận hành phần mềm thật
+* Tư duy làm nghề: chậm hơn, chắc hơn, và không tự bào mòn mình
+
+Mình không viết tutorial cho người mới bắt đầu, cũng không cố truyền cảm hứng.
+Blog này dành cho những ai đã đi làm một thời gian và muốn **làm nghề bền bỉ hơn**.
+
+Trước đây, mình từng xây **anhnbt.com**, một công cụ tạo tên ký tự đặc biệt được cộng đồng game thủ sử dụng rộng rãi. Dự án đó dạy mình rất nhiều về việc xây, vận hành, và buông đúng lúc để đi tiếp.
+
+Mình tin vào những phần mềm giản dị nhưng có giá trị lâu dài.
+Còn hiện tại, mình vẫn code đều — tỉnh táo — và đi tiếp.
